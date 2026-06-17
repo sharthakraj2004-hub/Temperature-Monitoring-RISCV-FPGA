@@ -77,6 +77,10 @@ Thermistor → ESP8266 ADC → 4-bit Scaling → GPIO Interface → ET1035 RISC-
 
 The system successfully demonstrated reliable temperature acquisition, GPIO-based communication between ESP8266 and FPGA, and threshold-based LED control using the ET1035 RISC-V processor.
 
+## Demonstration
+
+Please refer to the Hardware_Implementation_Video.mp4 file in the Results folder for a complete working demonstration of the system.
+
 ## Author
 
 Sharthak Raj
