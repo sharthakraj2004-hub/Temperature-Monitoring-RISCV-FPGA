@@ -1,13 +1,12 @@
-# ADAS Throttle Limiting System
+# Temperature Monitoring and FPGA Control
 
-Embedded control prototype developed using Arduino Uno, HC-SR04 ultrasonic sensor, potentiometer, and servo motor.
+Temperature monitoring system using ESP8266 ADC interfaced with an ET1035 RISC-V FPGA on the Arty A7 platform.
 
 ## Features
 
-* Real-time obstacle detection
-* Distance-based throttle limiting
-* Multi-level safety logic
-* LED warning indications
-* Serial monitoring
+* Thermistor-based temperature sensing
+* GPIO communication
+* FPGA-based threshold control
+* UART debugging
 
-Source code, circuit diagrams, and project results will be uploaded soon.
+Source code, hardware setup, and project documentation will be uploaded soon.
