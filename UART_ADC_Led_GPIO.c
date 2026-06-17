@@ -2,10 +2,10 @@
 
  Project Name		: SDP - SOC Development Project
  Project Code		: ET1035
- Filename		: UART_ADC_Led_GPIO.c
- Purpose		: ADC and GPIO interface
+ Filename			: UART_ADC_Led_GPIO.c
+ Purpose			: ADC and GPIO interface
  Description		: control led through ADC
- Author(s)		: Sharthak Raj
+ Author				: Sharthak Raj
     
  See LICENSE for license details.
 ******************************************************************************/
